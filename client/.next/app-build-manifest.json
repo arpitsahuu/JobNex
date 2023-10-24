@@ -1,0 +1,84 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/Employesignin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Employesignin/page.css",
+      "static/chunks/app/Employesignin/page.js"
+    ],
+    "/Employe/EmployeHome/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Employe/EmployeHome/page.js"
+    ],
+    "/Employe/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Employe/layout.css",
+      "static/chunks/app/Employe/layout.js"
+    ],
+    "/Employe/jobs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Employe/jobs/page.js"
+    ],
+    "/Employe/profile/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Employe/profile/page.css",
+      "static/chunks/app/Employe/profile/page.js"
+    ],
+    "/Employe/internships/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/Employe/internships/page.js"
+    ],
+    "/Employe/updateemploye/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Employe/updateemploye/page.css",
+      "static/chunks/app/Employe/updateemploye/page.js"
+    ],
+    "/Employe/internships/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Employe/internships/[id]/page.css",
+      "static/chunks/app/Employe/internships/[id]/page.js"
+    ],
+    "/Employe/changepassword/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Employe/changepassword/page.css",
+      "static/chunks/app/Employe/changepassword/page.js"
+    ],
+    "/Student/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/layout.css",
+      "static/chunks/app/Student/layout.js"
+    ],
+    "/Student/updatestudent/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Student/updatestudent/page.css",
+      "static/chunks/app/Student/updatestudent/page.js"
+    ],
+    "/Studentlogin/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/Studentlogin/page.css",
+      "static/chunks/app/Studentlogin/page.js"
+    ]
+  }
+}

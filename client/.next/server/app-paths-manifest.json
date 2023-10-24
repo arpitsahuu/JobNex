@@ -1,0 +1,7 @@
+{
+  "/Studentlogin/page": "app/Studentlogin/page.js",
+  "/Employe/profile/page": "app/Employe/profile/page.js",
+  "/Employe/updateemploye/page": "app/Employe/updateemploye/page.js",
+  "/Employe/EmployeHome/page": "app/Employe/EmployeHome/page.js",
+  "/Employe/internships/[id]/page": "app/Employe/internships/[id]/page.js"
+}
